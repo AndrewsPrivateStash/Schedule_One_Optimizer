@@ -21,8 +21,8 @@ import (
 )
 
 var (
-	ingCntF  = flag.Int("c", 8, "the upper bound of ingredients to optimize (default 8)")
-	lvlF     = flag.String("r", "Kingpin I", "rank limit to apply (default Kingpin I)")
+	ingCntF  = flag.Int("c", 8, "the upper bound of ingredients to optimize")
+	lvlF     = flag.String("r", "Kingpin I", "rank limit to apply")
 	prodF    = flag.String("p", "", "product to optimize (default all)")
 	outFileF = flag.String("f", "optimized_mix.txt", "file to write to in current directory")
 	makeDBF  = flag.Bool("db", false, "generate db of results and write to file")
