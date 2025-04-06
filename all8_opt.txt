@@ -6,6 +6,7 @@
 5  OG Kush: { Gasoline -> Cuke -> Battery -> Mega Bean -> Viagra } 108.00
 6  OG Kush: { Cuke -> Gasoline -> Cuke -> Mouth Wash -> Viagra -> Mega Bean } 120.00
 7  OG Kush: { Banana -> Gasoline -> Cuke -> Mega Bean -> Battery -> Banana -> Cuke } 136.00
+8  OG Kush: { Banana -> Gasoline -> Paracetamol -> Cuke -> Mega Bean -> Battery -> Banana -> Cuke } 140.00
 
 
 Mix for: OG Kush	(Street Rat I)
@@ -37,6 +38,7 @@ Required Rank: Peddler V
 5  Sour Diesel: { Cuke -> Mega Bean -> Iodine -> Motor Oil -> Viagra } 105.00
 6  Sour Diesel: { Banana -> Cuke -> Horse Semen -> Mega Bean -> Iodine -> Motor Oil } 117.00
 7  Sour Diesel: { Banana -> Cuke -> Horse Semen -> Viagra -> Mega Bean -> Iodine -> Motor Oil } 129.00
+8  Sour Diesel: { Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean -> Iodine -> Motor Oil } 130.00
 
 
 Mix for: Sour Diesel	(Street Rat IV)
@@ -68,6 +70,7 @@ Required Rank: Hustler I
 5  Green Crack: { Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 109.00
 6  Green Crack: { Paracetamol -> Mega Bean -> Motor Oil -> Cuke -> Battery -> Mega Bean } 120.00
 7  Green Crack: { Paracetamol -> Cuke -> Gasoline -> Cuke -> Mega Bean -> Chili -> Battery } 132.00
+8  Green Crack: { Paracetamol -> Banana -> Gasoline -> Cuke -> Mega Bean -> Battery -> Banana -> Cuke } 140.00
 
 
 Mix for: Green Crack	(Hoodlum II)
@@ -99,6 +102,7 @@ Required Rank: Peddler V
 5  Granddaddy Purple: { Banana -> Cuke -> Horse Semen -> Mega Bean -> Viagra } 104.00
 6  Granddaddy Purple: { Cuke -> Energy Drink -> Mega Bean -> Paracetamol -> Chili -> Mouth Wash } 117.00
 7  Granddaddy Purple: { Energy Drink -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean -> Chili } 130.00
+8  Granddaddy Purple: { Banana -> Paracetamol -> Gasoline -> Cuke -> Mega Bean -> Battery -> Banana -> Cuke } 134.00
 
 
 Mix for: Granddaddy Purple	(Hoodlum IV)
@@ -130,6 +134,7 @@ Required Rank: Peddler V
 5  Meth: { Banana -> Cuke -> Horse Semen -> Mega Bean -> Viagra } 214.00
 6  Meth: { Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 242.00
 7  Meth: { Motor Oil -> Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 274.00
+8  Meth: { Banana -> Cuke -> Paracetamol -> Gasoline -> Cuke -> Horse Semen -> Mega Bean -> Battery } 302.00
 
 
 Mix for: Meth	(Hoodlum I)
@@ -161,6 +166,7 @@ Required Rank: Hustler III
 5  Cocaine: { Banana -> Cuke -> Horse Semen -> Mega Bean -> Viagra } 486.00
 6  Cocaine: { Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 549.00
 7  Cocaine: { Motor Oil -> Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 624.00
+8  Cocaine: { Motor Oil -> Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Horse Semen -> Mega Bean } 693.00
 
 
 Mix for: Cocaine	(Enforcer I)
