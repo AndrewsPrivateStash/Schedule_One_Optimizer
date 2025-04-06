@@ -1,0 +1,186 @@
+#### OG Kush ####
+1  OG Kush: { Mouth Wash } 60.00
+2  OG Kush: { Cuke -> Mega Bean } 75.00
+3  OG Kush: { Cuke -> Mega Bean -> Viagra } 87.00
+4  OG Kush: { Cuke -> Horse Semen -> Viagra -> Mega Bean } 96.00
+5  OG Kush: { Gasoline -> Cuke -> Battery -> Mega Bean -> Viagra } 108.00
+6  OG Kush: { Cuke -> Gasoline -> Cuke -> Mouth Wash -> Viagra -> Mega Bean } 120.00
+7  OG Kush: { Banana -> Gasoline -> Cuke -> Mega Bean -> Battery -> Banana -> Cuke } 136.00
+
+
+Mix for: OG Kush	(Street Rat I)
+Ingredients:
+  1: Banana               cost: 2.00   rank: Street rat I         effect: Gingeritis                    
+  2: Gasoline             cost: 5.00   rank: Hoodlum V            effect: Toxic                         
+  3: Paracetamol          cost: 3.00   rank: Street rat I         effect: Sneaky                        
+  4: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+  5: Mega Bean            cost: 7.00   rank: Peddler III          effect: Foggy                         
+  6: Battery              cost: 8.00   rank: Peddler V            effect: Bright-Eyed                   
+  7: Banana               cost: 2.00   rank: Street rat I         effect: Gingeritis                    
+  8: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+
+Effects:
+{ Anti-Gravity, Bright-Eyed, Cyclopean, Glowing, Jennerising, Thought-Provoking, Tropic Thunder, Zombifying }
+
+Total Ingredient Cost: 31.00
+Total Price: 171.00
+Total Gross Profit: 140.00
+
+Required Rank: Peddler V
+
+
+#### Sour Diesel ####
+1  Sour Diesel: { Iodine } 57.00
+2  Sour Diesel: { Iodine -> Viagra } 69.00
+3  Sour Diesel: { Iodine -> Horse Semen -> Viagra } 81.00
+4  Sour Diesel: { Cuke -> Mega Bean -> Iodine -> Motor Oil } 93.00
+5  Sour Diesel: { Cuke -> Mega Bean -> Iodine -> Motor Oil -> Viagra } 105.00
+6  Sour Diesel: { Banana -> Cuke -> Horse Semen -> Mega Bean -> Iodine -> Motor Oil } 117.00
+7  Sour Diesel: { Banana -> Cuke -> Horse Semen -> Viagra -> Mega Bean -> Iodine -> Motor Oil } 129.00
+
+
+Mix for: Sour Diesel	(Street Rat IV)
+Ingredients:
+  1: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+  2: Paracetamol          cost: 3.00   rank: Street rat I         effect: Sneaky                        
+  3: Gasoline             cost: 5.00   rank: Hoodlum V            effect: Toxic                         
+  4: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+  5: Battery              cost: 8.00   rank: Peddler V            effect: Bright-Eyed                   
+  6: Mega Bean            cost: 7.00   rank: Peddler III          effect: Foggy                         
+  7: Iodine               cost: 8.00   rank: Hustler I            effect: Jennerising                   
+  8: Motor Oil            cost: 6.00   rank: Peddler II           effect: Slippery                      
+
+Effects:
+{ Anti-Gravity, Bright-Eyed, Cyclopean, Glowing, Jennerising, Thought-Provoking, Tropic Thunder, Zombifying }
+
+Total Ingredient Cost: 41.00
+Total Price: 171.00
+Total Gross Profit: 130.00
+
+Required Rank: Hustler I
+
+
+#### Green Crack ####
+1  Green Crack: { Mega Bean } 60.00
+2  Green Crack: { Viagra -> Mega Bean } 72.00
+3  Green Crack: { Viagra -> Mega Bean -> Horse Semen } 82.00
+4  Green Crack: { Gasoline -> Cuke -> Viagra -> Mega Bean } 96.00
+5  Green Crack: { Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 109.00
+6  Green Crack: { Paracetamol -> Mega Bean -> Motor Oil -> Cuke -> Battery -> Mega Bean } 120.00
+7  Green Crack: { Paracetamol -> Cuke -> Gasoline -> Cuke -> Mega Bean -> Chili -> Battery } 132.00
+
+
+Mix for: Green Crack	(Hoodlum II)
+Ingredients:
+  1: Paracetamol          cost: 3.00   rank: Street rat I         effect: Sneaky                        
+  2: Banana               cost: 2.00   rank: Street rat I         effect: Gingeritis                    
+  3: Gasoline             cost: 5.00   rank: Hoodlum V            effect: Toxic                         
+  4: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+  5: Mega Bean            cost: 7.00   rank: Peddler III          effect: Foggy                         
+  6: Battery              cost: 8.00   rank: Peddler V            effect: Bright-Eyed                   
+  7: Banana               cost: 2.00   rank: Street rat I         effect: Gingeritis                    
+  8: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+
+Effects:
+{ Anti-Gravity, Bright-Eyed, Cyclopean, Glowing, Jennerising, Thought-Provoking, Tropic Thunder, Zombifying }
+
+Total Ingredient Cost: 31.00
+Total Price: 171.00
+Total Gross Profit: 140.00
+
+Required Rank: Peddler V
+
+
+#### Granddaddy Purple ####
+1  Granddaddy Purple: { Viagra } 56.00
+2  Granddaddy Purple: { Cuke -> Mega Bean } 67.00
+3  Granddaddy Purple: { Cuke -> Viagra -> Mega Bean } 79.00
+4  Granddaddy Purple: { Banana -> Cuke -> Horse Semen -> Mega Bean } 92.00
+5  Granddaddy Purple: { Banana -> Cuke -> Horse Semen -> Mega Bean -> Viagra } 104.00
+6  Granddaddy Purple: { Cuke -> Energy Drink -> Mega Bean -> Paracetamol -> Chili -> Mouth Wash } 117.00
+7  Granddaddy Purple: { Energy Drink -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean -> Chili } 130.00
+
+
+Mix for: Granddaddy Purple	(Hoodlum IV)
+Ingredients:
+  1: Banana               cost: 2.00   rank: Street rat I         effect: Gingeritis                    
+  2: Paracetamol          cost: 3.00   rank: Street rat I         effect: Sneaky                        
+  3: Gasoline             cost: 5.00   rank: Hoodlum V            effect: Toxic                         
+  4: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+  5: Mega Bean            cost: 7.00   rank: Peddler III          effect: Foggy                         
+  6: Battery              cost: 8.00   rank: Peddler V            effect: Bright-Eyed                   
+  7: Banana               cost: 2.00   rank: Street rat I         effect: Gingeritis                    
+  8: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+
+Effects:
+{ Anti-Gravity, Bright-Eyed, Cyclopean, Glowing, Sedating, Thought-Provoking, Tropic Thunder, Zombifying }
+
+Total Ingredient Cost: 31.00
+Total Price: 165.00
+Total Gross Profit: 134.00
+
+Required Rank: Peddler V
+
+
+#### Meth ####
+1  Meth: { Viagra } 98.00
+2  Meth: { Viagra -> Horse Semen } 126.00
+3  Meth: { Cuke -> Mega Bean -> Viagra } 154.00
+4  Meth: { Banana -> Cuke -> Horse Semen -> Mega Bean } 186.00
+5  Meth: { Banana -> Cuke -> Horse Semen -> Mega Bean -> Viagra } 214.00
+6  Meth: { Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 242.00
+7  Meth: { Motor Oil -> Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 274.00
+
+
+Mix for: Meth	(Hoodlum I)
+Ingredients:
+  1: Banana               cost: 2.00   rank: Street rat I         effect: Gingeritis                    
+  2: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+  3: Paracetamol          cost: 3.00   rank: Street rat I         effect: Sneaky                        
+  4: Gasoline             cost: 5.00   rank: Hoodlum V            effect: Toxic                         
+  5: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+  6: Horse Semen          cost: 9.00   rank: Hustler III          effect: Long Faced                    
+  7: Mega Bean            cost: 7.00   rank: Peddler III          effect: Foggy                         
+  8: Battery              cost: 8.00   rank: Peddler V            effect: Bright-Eyed                   
+
+Effects:
+{ Bright-Eyed, Cyclopean, Electrifying, Foggy, Glowing, Long Faced, Tropic Thunder, Zombifying }
+
+Total Ingredient Cost: 38.00
+Total Price: 340.00
+Total Gross Profit: 302.00
+
+Required Rank: Hustler III
+
+
+#### Cocaine ####
+1  Cocaine: { Horse Semen } 219.00
+2  Cocaine: { Addy -> Horse Semen } 285.00
+3  Cocaine: { Viagra -> Addy -> Horse Semen } 350.00
+4  Cocaine: { Banana -> Cuke -> Horse Semen -> Mega Bean } 421.00
+5  Cocaine: { Banana -> Cuke -> Horse Semen -> Mega Bean -> Viagra } 486.00
+6  Cocaine: { Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 549.00
+7  Cocaine: { Motor Oil -> Cuke -> Paracetamol -> Gasoline -> Cuke -> Battery -> Mega Bean } 624.00
+
+
+Mix for: Cocaine	(Enforcer I)
+Ingredients:
+  1: Motor Oil            cost: 6.00   rank: Peddler II           effect: Slippery                      
+  2: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+  3: Paracetamol          cost: 3.00   rank: Street rat I         effect: Sneaky                        
+  4: Gasoline             cost: 5.00   rank: Hoodlum V            effect: Toxic                         
+  5: Cuke                 cost: 2.00   rank: Street rat I         effect: Energizing                    
+  6: Battery              cost: 8.00   rank: Peddler V            effect: Bright-Eyed                   
+  7: Horse Semen          cost: 9.00   rank: Hustler III          effect: Long Faced                    
+  8: Mega Bean            cost: 7.00   rank: Peddler III          effect: Foggy                         
+
+Effects:
+{ Anti-Gravity, Bright-Eyed, Cyclopean, Foggy, Glowing, Long Faced, Tropic Thunder, Zombifying }
+
+Total Ingredient Cost: 42.00
+Total Price: 735.00
+Total Gross Profit: 693.00
+
+Required Rank: Enforcer I
+
+

@@ -1,0 +1,29 @@
+# Binaries for programs and tools
+*.exe
+*.o
+*.a
+
+# Test binary, build cache, result of go tool cover
+*.test
+*.out
+testdata
+/vendor
+
+# Dependency directories (if you use modules)
+/go.mod
+/go.sum
+
+# IDE files
+.idea/
+*.iml
+
+# Temporary files
+*~
+\#*
+*.swp
+
+# Log files
+*.log
+
+# Manual
+*dat
