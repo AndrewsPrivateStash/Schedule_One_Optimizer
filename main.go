@@ -115,7 +115,7 @@ func main() {
 // make output string
 func makeOutputString(ms []*Mix, ing_cnt int) string {
 	res := ""
-	for i := range len(ms) - 1 {
+	for i := range len(ms) {
 		res += fmt.Sprintf("%d  %s\n", i+1, ms[i].print_comp())
 	}
 	res += "\n" + ms[ing_cnt-1].print()

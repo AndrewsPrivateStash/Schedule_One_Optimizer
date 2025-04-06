@@ -3,6 +3,8 @@
 	DB should be: map[string]map[rank][]Mix
 
 	TODO
+		- re-write make process to only calculate significant ranks
+		- write function to generate a map from passed rank to significant rank for lookup
 */
 
 package main
