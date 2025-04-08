@@ -10,7 +10,7 @@ testdata
 /vendor
 
 # Dependency directories (if you use modules)
-/go.mod
+#/go.mod
 /go.sum
 
 # IDE files
